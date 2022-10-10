@@ -6,7 +6,7 @@ En caso de ser el administrador se debe recibir notificaciones de las nuevas sol
 
 # 1. Toma de requerimientos.
 
-   - [Diagrma de flujo del caso AbogaBot.]()
+   - [Diagrma de flujo del caso AbogaBot.](https://github.com/KevinCuevas26/Launch-X-proyectosFontEnd/blob/30f7bff52b08cdc9effba87e5b3c011541c104ea/archivos/practica%201/diagrama.pdf)
    
    - [Crear el buyer persona.]()
 
