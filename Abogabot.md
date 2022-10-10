@@ -6,8 +6,9 @@ En caso de ser el administrador se debe recibir notificaciones de las nuevas sol
 
 # 1. Toma de requerimientos.
 
-     - [Diagrma de flujo del caso AbogaBot.]()
-     - [Crear el buyer persona.]()
+   - [Diagrma de flujo del caso AbogaBot.]()
+   
+   - [Crear el buyer persona.]()
 
 # 2. Publico objetivo
 # 3. Crear el diseño UX
