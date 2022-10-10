@@ -8,7 +8,7 @@ En caso de ser el administrador se debe recibir notificaciones de las nuevas sol
 
    - [Diagrma de flujo del caso AbogaBot.](https://github.com/KevinCuevas26/Launch-X-proyectosFontEnd/blob/30f7bff52b08cdc9effba87e5b3c011541c104ea/archivos/practica%201/diagrama.pdf)
    
-   - [Crear el buyer persona.]()
+   - [Crear el buyer persona.](https://github.com/KevinCuevas26/Launch-X-proyectosFontEnd/blob/db31eaf20625e535592b7a5db46958495c9f5fa8/archivos/practica%201/buyer%20persona.pdf)
 
 # 2. Publico objetivo
 # 3. Crear el diseño UX
