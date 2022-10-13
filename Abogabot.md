@@ -6,7 +6,7 @@ En caso de ser el administrador se debe recibir notificaciones de las nuevas sol
 
 # 1. Toma de requerimientos.
 
-   - [Diagrma de flujo del caso AbogaBot](archivos/archivo.md)
+   - [Diagrma de flujo del caso AbogaBot](archivos/practica%201/diagrama.pdf)
    
    - [Crear el buyer persona.](./archivos/practica%201/buyer%20persona.pdf)
 
