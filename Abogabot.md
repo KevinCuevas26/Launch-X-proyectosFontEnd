@@ -13,5 +13,5 @@ En caso de ser el administrador se debe recibir notificaciones de las nuevas sol
 # 2. Publico objetivo
    - [Publico Objetivo](./archivos/practica%201/publico%20objetivo.jpg)
 # 3. Crear el diseño UX
-   - [Diseño UX](./archivos/practica%201/3.-UX1.0.pdf)
+   - [Diseño UX](./archivos/practica%201/3.-UX2.0.pdf)
 # 4. Crear el diseño UI
