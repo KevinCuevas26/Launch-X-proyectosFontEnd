@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ordena tu pastel</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" href="css/estilo.css">
+    </head>
+    <body>
+        <section class="inicio">
+            <a><video id="vid" src="img/pasteleria.mp4" loop mute autoplay></video></a>  
+        </section>
+        <form action="">
+            <h1>Formulario para ordenar tu pastel</h1>
+            <p>Nombre*  <input type="text" placeholder="Nombre" id="nombre" required /></p>
+            <p>Apellidos*  <input type="text" placeholder="Apellido" id="Apellido" required /></p>
+            <p>Telefono*  <input type="number" placeholder="Telefono" id="numero" class=".no" required /></p>
+            <p>Elija su pastel  
+                <select id="pastel" required> 
+                    <option value="">Selecciona.....</option>
+                    <option value="1">Cheesecake individual</option>
+                    <option value="2">Mil hojas</option>
+                    <option value="3">Pastel de coco</option>
+                    <option value="4">Personalizado</option>
+                </select>
+            </p>
+            <p> Seleccione el sabor
+                <select id="sabor">
+                    <option value="">Seleccione.....</option>
+                    <option value="1">Chocolate</option>
+                    <option value="2">Coco</option>
+                    <option value="4">Queso</option>
+                    <option value="5">Limon</option>
+                    <option value="6">Vainilla</option>
+                    <option value="7">Combinado</option>
+                </select>
+            </p>
+            <p>Seleccione adornos para su pastel
+                <select id="adornos" required>
+                    <option value="">Seleccione.....</option>
+                    <option value="1">Frutas</option>
+                    <option value="2">Gomitas</option>
+                    <option value="3">Chocolate</option>
+                    <option value="4">Texto personalizado</option>
+                    <option value="5">Combinado</option>
+                </select>
+            </p>
+            <p>Detalles del pedido en caso que el pastel sea personalizado, combinado </p> 
+            <textarea id="detalles" placeholder="Detalles del pedido"></textarea>
+            <br>
+            <button>Enviar pedido</button>
+        </form>
+    </body>
+</html>
