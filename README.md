@@ -6,7 +6,7 @@ Aqui se mostraran todas las practicas que veremos en el programa FontEnd Launch 
     - [Abogabot](Abogabot.md)
 
 2. HTML 
-    - [Pasteleria](archivos/pasteleria/pasteleria.md)
+    - [Pasteleria](archivos/pasteleria/README.md)
     
 3. CSS
 4. Java script
